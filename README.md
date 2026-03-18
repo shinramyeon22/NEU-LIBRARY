@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://winged-app-479223-g2.web.app">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20NEU%20Library-View%20Live%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch App" height="50"/>
+  </a>
+</p>
+
 # React + TypeScript + Vite
 
 ## Deploying to Firebase

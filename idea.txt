@@ -1,0 +1,15 @@
+first time login:
+user choose a department, then done:
+
+returning users:
+user choose what he/she will do in library (PURPOSE OF VISIT), there will be a checkbox:
+"borrowing books", "computer use", "reading", "studying", "thesis work", click "Enter Session"
+
+then the record will save. redirect to dashboard.
+
+in dashboard, there is a table that shows the history of "PURPOSE OF VISIT", where it shows all the historical data of user everytime it visits.
+in dashboard, there is also a logout button.
+
+
+admin login:
+automatically redirects to dashboard, having other options like user management, etc.

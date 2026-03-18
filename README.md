@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://winged-app-479223-g2.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/NEU%20Library-Live%20Demo-brightgreen?style=for-the-badge&logo=firebase&logoColor=white&color=FF6D00" alt="Live Demo" height="40"/>
+  <a href="https://winged-app-479223-g2.web.app">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20NEU%20Library-View%20Live%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch App" height="50"/>
   </a>
 </p>
 

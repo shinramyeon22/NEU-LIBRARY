@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="https://gen-lang-client-0632857640.web.app">
-    <img src="https://img.shields.io/badge/NEU%20MOA-Live%20Demo-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Live Demo" />
+  <a href="https://gen-lang-client-0632857640.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch App" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/shinramyeon22/NEU-LIBRARY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
   </a>
 </p>
 

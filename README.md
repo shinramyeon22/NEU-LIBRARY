@@ -1,25 +1,19 @@
 <p align="center">
-  <a href="https://gen-lang-client-0632857640.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch App" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/shinramyeon22/NEU-LIBRARY" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  <a href="https://winged-app-479223-g2.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/NEU%20Library-Live%20Demo-brightgreen?style=for-the-badge&logo=firebase&logoColor=white&color=FF6D00" alt="Live Demo" height="40"/>
   </a>
 </p>
 
-<h1 align="center">NEU MOA (Memoranda of Agreement Tracker)</h1>
+<h1 align="center">NEU Library Session Tracker</h1>
 
 <p align="center">
-  Single-page application for monitoring, maintaining, and auditing Memoranda of Agreement (MOAs) at New Era University.<br/>
-  Built with React, Vite, Firebase Authentication, Firestore, and Tailwind CSS.
+  Digital library visit logging system for New Era University students and admins.<br/>
+  Built with React, TypeScript, Vite, Firebase Auth & Firestore.
   <br/><br/>
-  <strong>Live Deployment:</strong> 
-  <a href="https://gen-lang-client-0632857640.web.app">https://gen-lang-client-0632857640.web.app</a>
+  <strong>Live App:</strong> <a href="https://winged-app-479223-g2.web.app">https://winged-app-479223-g2.web.app</a>
 </p>
 
 <br/>
-
 ## Features
 - Google Sign-in restricted to @neu.edu.ph accounts
 - Role-based access (Admin / Maintainer / Viewer)

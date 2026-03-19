@@ -1,27 +1,28 @@
 <p align="center">
-  <a href="https://winged-app-479223-g2.web.app">
-    <img src="https://img.shields.io/badge/🚀%20Launch%20NEU%20Library-View%20Live%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch App" height="50"/>
+  <a href="https://gen-lang-client-0632857640.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20NEU%20MOA-View%20Live%20App-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Launch NEU MOA App" height="50"/>
   </a>
 </p>
 
-<h1 align="center">NEU Library Session Tracker</h1>
+<h1 align="center">NEU MOA (Memoranda of Agreement Tracker)</h1>
 
 <p align="center">
-  Digital library visit logging system for New Era University students and admins.<br/>
-  Built with React, TypeScript, Vite, Firebase Auth & Firestore.
+  Single-page application for monitoring, maintaining, and auditing Memoranda of Agreement (MOAs) at New Era University.<br/>
+  Built with React, Vite, Firebase Authentication, Firestore, and Tailwind CSS.
   <br/><br/>
-  <strong>Live App:</strong> <a href="https://winged-app-479223-g2.web.app">https://winged-app-479223-g2.web.app</a>
+  <strong>Live Deployment:</strong> 
+  <a href="https://gen-lang-client-0632857640.web.app">https://gen-lang-client-0632857640.web.app</a>
 </p>
 
 <br/>
 
 ## Features
-- Google Sign-in with @neu.edu.ph restriction
-- Student onboarding (college selection)
-- Session logging (purpose of visit)
-- Personal dashboard with visit history
-- Admin panel (statistics, user management, blocking)
-...
+- Google Sign-in restricted to @neu.edu.ph accounts
+- Role-based access (Admin / Maintainer / Viewer)
+- Create, view, update, and archive MOAs
+- Audit trail / change history logging
+- Encrypted environment variables workflow for team collaboration
+- Firebase Hosting deployment ready
 
 # React + TypeScript + Vite
 
